@@ -183,12 +183,10 @@ body{
 .wallet__container{
     display: flex;
     align-items: center;
-    color: #fff;
+    
     gap: 10px;
 }
-.wallet__logo{
-    filter: brightness(0) invert(1);
-}
+
 .p__wallet-money{
     font-weight: 600px;
 }
